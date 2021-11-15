@@ -1,5 +1,6 @@
 {
-    "mysecrets": {
-      "whowrotethis": "Joerg"
+    "data": {
+      "author": "AKiselev",
+      "cur_date": "2021-11-14"
     }
   }
